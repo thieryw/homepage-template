@@ -1,6 +1,6 @@
 {
     "name": "gitlanding",
-    "version": "2.1.5",
+    "version": "2.1.6",
     "description": "A module that generates a landing page for your projects",
     "repository": {
         "type": "git",
@@ -37,7 +37,7 @@
     "keywords": [],
     "homepage": "https://github.com/thieryw/gitlanding",
     "peerDependencies": {
-        "onyxia-ui": "^6.2.1",
+        "onyxia-ui": "^6.2.3",
         "@mui/material": "^6.1.7",
         "@emotion/react": "^11.0.0",
         "react": "^17.0.0 || ^18.0.0",
@@ -47,11 +47,11 @@
         "@mui/icons-material": "^6.1.7",
         "embla-carousel-react": "^7.0.3",
         "framer-motion": "^4.1.17",
-        "powerhooks": "^1.0.19",
+        "powerhooks": "^1.0.20",
         "react-github-btn": "^1.2.0",
         "react-syntax-highlighter": "^15.5.0",
         "tsafe": "^1.8.5",
-        "tss-react": "^4.9.13"
+        "tss-react": "^4.9.15"
     },
     "devDependencies": {
         "@emotion/react": "^11.13.3",
@@ -61,10 +61,10 @@
         "@types/react": "^18.3.5",
         "@types/react-dom": "^18.3.0",
         "@types/react-syntax-highlighter": "^15.5.2",
-        "evt": "^2.5.8",
+        "evt": "^2.5.9",
         "husky": "^4.3.0",
         "lint-staged": "^10.5.4",
-        "onyxia-ui": "^6.2.1",
+        "onyxia-ui": "^6.2.3",
         "prettier": "^2.7.1",
         "react": "^18.3.1",
         "react-dom": "^18.3.1",
